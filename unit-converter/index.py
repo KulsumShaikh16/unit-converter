@@ -19,7 +19,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title
-st.title("🌍 Unit Converter")
+st.title("Unit Converter")
 st.markdown("Convert units across different categories effortlessly.")
 
 # Sidebar for category selection
